@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>PHP Request</title>
-	</head>
 	<body>
 		<?php
 			define("TO_REPLACE", "/cockatiel/i");
