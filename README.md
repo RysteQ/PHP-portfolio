@@ -12,3 +12,4 @@ This is a repository of mine meant to keep track of my PHP projects since I deci
 - Functiuons
 - Random
 - Sorting
+- Superglobals
